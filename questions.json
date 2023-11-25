@@ -1,0 +1,201 @@
+
+[
+    {
+      "question": "What is the speed of light",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "What is the formula for calculating force?",
+      "subject": "Physics",
+      "topic": "Force",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "Define kinetic energy.",
+      "subject": "Physics",
+      "topic": "Energy",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "What is the main function of the cell membrane?",
+      "subject": "Biology",
+      "topic": "Cells",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "Identify the powerhouse of the cell.",
+      "subject": "Biology",
+      "topic": "Cells",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "Name three noble gases.",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "Name two countries in South America.",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+    {
+      "question": "Solve the equation: 4 x (6 + 2) ÷ 2.",
+      "subject": "Mathematics",
+      "topic": "Basic Arithmetic",
+      "difficulty": "Easy",
+      "marks": 10
+    },
+
+    {
+      "question": "Explain the difference between electric potential and electric potential energy.",
+      "subject": "Physics",
+      "topic": "Electromagnetism",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Describe how an electric generator works.",
+      "subject": "Physics",
+      "topic": "Electromagnetism",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Define the terms genotype and phenotype.",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Define the terms genotype and phenotype.",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the process of genetic recombination during meiosis.",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Balance the chemical equation: H₂ + O₂ → H₂O.",
+      "subject": "Chemistry",
+      "topic": "Chemical Reactions",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the law of conservation of mass?",
+      "subject": "Chemistry",
+      "topic": "Chemical Reactions",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Solve the equation: 2x - 10 = 11.",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Define the term quadratic equation.",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the key innovations during the Industrial Revolution.",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+
+    {
+      "question": "Discuss the concept of wave-particle duality.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Explain Heisenberg's Uncertainty Principle.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Describe the process of natural selection.",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Explain the role of genetic mutations in evolution.",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Provide the IUPAC name for CH3CH2OH.",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the difference between a nucleophile and an electrophile.",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Define the derivative of a function.",
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of a definite integral.",
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+]
