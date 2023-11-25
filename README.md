@@ -14,19 +14,19 @@ Throws error when user input does not meet Question_paper Criteria.
 ## Navigate to the Project Directory
 
 ## Install Dependencies
-
+Open terminal in Project Directory and Enter 
 ```bash
 npm install
 ```
 
 ## Execute the Application
-
+Open terminal in Project Directory and Enter 
 ```bash
 
 node index.js
 ```
 
-You will input 4 prompts
+You will input 3 prompts
 -Percentage distribution for Problems of Easy difficulty
 -Percentage distribution for Problems of Medium difficulty
 -Percentage distribution for Problems of Hard difficulty
